@@ -23,7 +23,7 @@
 - `rm -rf NEHAL-404`
 - `git clone --depth=1 https://github.com/Sabbir00173/sabbir13`
 - `chmod +x *`
-- `python NEHAL-404`
+- `python SABBIR13`
 
 
 
